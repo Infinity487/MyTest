@@ -1,4 +1,3 @@
-# MyTest
 year	boys	 girls	 total 	proportion_of_boys
 1629	5218	4683	9901	1.114243
 1630	4858	4457	9315	1.089971
